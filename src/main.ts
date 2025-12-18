@@ -61,12 +61,11 @@ class Portfolio {
         <!-- Hero -->
         <section id="home" class="hero">
           <h1 class="glitch">JAINAM MEHTA</h1>
-          <div class="subtitle">SOFTWARE ENGINEER</div>
+          <div class="subtitle">Aeronautics & Astronautics Engineer, Specialization: Structures</div>
           <p class="tagline">
-            Building intelligent systems • MS Computer Engineering @ UW • 
-            <span class="highlight">Ex-Accenture</span> • 
-            <span class="highlight">Surgical Robotics Research</span>
+            Description • - @ UW • 
           </p>
+          <p><span class="highlight">Research Name</span></p>
           <div class="cta-buttons">
             <a href="#projects" class="btn">EXPLORE PROJECTS</a>
             <a href="#contact" class="btn">GET IN TOUCH</a>
