@@ -1,4 +1,4 @@
-import { projects, Project } from "./projects";
+import { projects } from "./projects";
 
 export function showProjectDetail(projectNumber: string): void {
   const project = projects.find((p) => p.number === projectNumber);

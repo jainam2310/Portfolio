@@ -3,8 +3,6 @@ import { Scene3D } from "./scene";
 import { projects } from "./projects";
 
 class Portfolio {
-  private scene3D: Scene3D | null = null;
-
   constructor() {
     this.init();
   }
@@ -13,7 +11,7 @@ class Portfolio {
     // Initialize THREE.js scene
     const webglCanvas = document.getElementById("webgl") as HTMLCanvasElement;
     if (webglCanvas) {
-      this.scene3D = new Scene3D(webglCanvas);
+      new Scene3D(webglCanvas);
     }
 
     // Setup navigation
