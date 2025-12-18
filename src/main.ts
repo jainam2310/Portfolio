@@ -132,19 +132,10 @@ class Portfolio {
               <span class="footer-icon">📧</span>
               <span>jainam@uw.edu</span>
             </a>
-            <a href="https://www.linkedin.com/in/jainam-mehta/" target="_blank" class="footer-link">
+            <a href="https://www.linkedin.com/in/jainammehta23/" target="_blank" class="footer-link">
               <span class="footer-icon">💼</span>
               <span>LinkedIn</span>
             </a>
-            <a href="https://github.com/jainam-mehta" target="_blank" class="footer-link">
-              <span class="footer-icon">💻</span>
-              <span>GitHub</span>
-            </a>
-          </div>
-          <div class="footer-bottom">
-            <p>Built with TypeScript + THREE.js</p>
-            <p>© 2024 Jainam Mehta. All rights reserved.</p>
-            <p class="footer-note">Designed for recruiters and fellow engineers</p>
           </div>
         </div>
       </footer>
